@@ -2,6 +2,7 @@
   "name": "js-utils-pure-http",
   "version": "0.1.0",
   "description": "Framework-independent HTTP request handling",
+  "type": "module",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
