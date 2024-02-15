@@ -1,23 +1,9 @@
 {
-  "name": "js-utils-pure-http",
-  "version": "0.1.0",
-  "description": "Framework-independent HTTP request handling",
+  "name": "bear-http",
+  "version": "0.2.0",
+  "description": "Simple HTTP request handling",
   "type": "module",
   "main": "lib/index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jamiesyme/js-utils-pure-http.git"
-  },
   "author": "Jamie Syme",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jamiesyme/js-utils-pure-http/issues"
-  },
-  "homepage": "https://github.com/jamiesyme/js-utils-pure-http#readme"
+  "license": "MIT"
 }
